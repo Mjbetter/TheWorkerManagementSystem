@@ -1,5 +1,5 @@
 # TheWorkerManagementSystem
-Practicing for C++
+
 一些简要的说明
 =
 ## 职工管理系统
