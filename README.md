@@ -1,7 +1,8 @@
 # TheWorkerManagementSystem
 Practicing for C++
-===一些简要的说明
-##职工管理系统
+一些简要的说明
+=
+## 职工管理系统
 >这个系统有7个功能
 >>0.退出系统
 >>1.添加职工
@@ -16,8 +17,9 @@ Practicing for C++
 
 
 
-===Some Simple Instructions
-##The Woker ManagementSystem
+Some Simple Instructions
+=
+## The Woker ManagementSystem
 >There are seven functions for this system.
 >>Zero.Exit System
 >>First.Add Workers
